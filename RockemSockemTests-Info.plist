@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleShortVersionString</key>
+	<key>CFBundleSignature</key>
+	<string>1</string>
+</dict>
+</plist>
